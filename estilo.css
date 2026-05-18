@@ -1,0 +1,35 @@
+body{
+    background-color:#EBEBEB
+}
+
+.cor_do_topo{
+    background-color:#21272B;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 8px 12px;
+}
+
+.img_principal{
+    height: 675px;
+    width: auto;
+}
+
+.textos-topo {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.menu{
+    display: flex;
+    align-items: left;
+    gap: 15px;
+    padding: 20px 30px;
+}
+.cor_do_topo h4 {
+    margin: 0;
+}
+.cor_luxo{
+    color:#1BB4E8;
+}
